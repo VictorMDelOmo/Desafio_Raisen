@@ -11,7 +11,7 @@ com a solução em mente, foram abordados dois possíveis caminhos:
 
 # Caminhos.
 O primeiro e oficial, denominada pela DAG: "desafio_raizen_1", consiste na preparação e subida do ambiente docker com airflow,
-e utilização de um arquivo pré resgatado da origem proposta pelo desafio.
+e utilização do arquivo pré resgatado da origem proposta pelo desafio.
 Onde para realizar a transformação de formatos, foi utilizado o aplicativo LibreOffice, que através do comando:
 "C:\Program Files\LibreOffice\program\soffice.exe" --convert-to xlsx "C:\local_do_arquivo\file.xls" -outdir "C:\saida_do_arquivo"
 retorna o arquivo formatado para o padrão desejado.
