@@ -35,7 +35,7 @@ O aplicação deve retornar os seguintes resultados:
 
 ![Airflow](https://user-images.githubusercontent.com/86423797/162024150-e88d4e2c-7fc0-4098-961a-234e01cd0b60.png)
 
-# Arquivo
+# Arquivos
 diesel_by_uf_and_type
 
 ![resutado](https://user-images.githubusercontent.com/86423797/162025865-f0112e30-07f7-4174-bbf1-a3d698673b7a.png)
