@@ -38,7 +38,9 @@ O aplicação deve retornar os seguintes resultados:
 # Arquivos
 diesel_by_uf_and_type
 
-![resutado](https://user-images.githubusercontent.com/86423797/162025865-f0112e30-07f7-4174-bbf1-a3d698673b7a.png)
+
+![Oleo](https://user-images.githubusercontent.com/86423797/162055199-bc9e0c9b-bac0-47b9-b969-66be0dd44839.png)
+
 
 #
 
