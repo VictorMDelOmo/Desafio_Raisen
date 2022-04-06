@@ -1,4 +1,4 @@
-# Desafio_Raisen.
+# Desafio_Raizen.
 Repositório para anexar e descrever a solução para o desafio proposto pela Raízen.
 
 
