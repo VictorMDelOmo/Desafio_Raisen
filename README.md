@@ -4,7 +4,7 @@ Repositório para anexar e descrever a solução para o desafio proposto pela Ra
 
 
 # Considerações iniciais.
-O desafio propôe um arquivo no formato XLS, no qual será necessário resgatar e extrair os dados internos de suas tabelas pivot
+O desafio propõe um arquivo no formato XLS, no qual será necessário resgatar e extrair os dados internos de suas tabelas pivot
 para assim processar os dados segundo indicado no Desafio.
 A solução consiste em transformar o arquivo para o formato XLSX. Para que assim seja possível acessar seus dados brutos.
 com a solução em mente, foram abordados dois possíveis caminhos:
