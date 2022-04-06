@@ -19,7 +19,7 @@ Com o arquivo em mãos, basta apenas aloca-lo na pasta "diretorio" dentro do dir
 # 
 O segundo caminho(não-finalizado) denominado pela DAG: "desafio_raizen_teste_DO" consiste em adquirir e transformar o arquivo através de codificação Python.
 Para isso foram utilizadas algumas biblíotecas como: requests, os e sys.
-essa transformação se daria através de um DockerOperetor com uma imagem do LibreOficce.
+essa transformação se daria através de um DockerOperetor com uma imagem do LibreOffice.
 após rodar o comando, o DockerOperetor não é capaz de acessar o a pasta de destino, por falta de permissões.
 Para isso decidi empacotar o arquivo em torno de um serviço (acessível via TCP) que usa uma imagem socat e expõe o serviço no tcp://localhost:1234 dentro do composer.
 No entanto o DockerOperetor não conseguiu acesso ao caminho de rede local. (Creio que seja necessário apenas uma configuração para ajustar corretamente as conexões entre os caminhos compartilhados)
